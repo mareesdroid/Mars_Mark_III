@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "19350604617",
+    "firebase_url": "https://marsscreen.firebaseio.com",
+    "project_id": "marsscreen",
+    "storage_bucket": "marsscreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19350604617:android:a9a02cc3fc689727",
+        "android_client_info": {
+          "package_name": "app.marees.mars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19350604617-1rbj8a202js9vk647k210k73hqn6coe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.marees.mars",
+            "certificate_hash": "38212836879b21bd6fbf874ccea7b0c128277a56"
+          }
+        },
+        {
+          "client_id": "19350604617-t19iinhfbepf6i62i7tletcin1gm55n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCCCGh3PFYifSG3VJEz7qgdl-AlLm2ybg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19350604617-t19iinhfbepf6i62i7tletcin1gm55n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
